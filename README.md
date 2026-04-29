@@ -7,7 +7,7 @@
 #### Clone repo
 
 ```bash
-git clone  --recurse-submodules git@github.com:hirok2005/disseration.git
+git clone git@github.com:hirok2005/leo_routing.git
 ```
 
 #### Setup virtual environment
